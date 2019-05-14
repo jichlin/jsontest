@@ -1,11 +1,11 @@
-ListOfThings : {
-{
-   Name : "Thing1",
-   Priority : 1
-},
-{
-   Name : "Thing2"
-   Priority : 2
-}
-
-}
+[{
+	"Things": [{
+			"Name": "Thing1",
+			"Priority": 1
+		},
+		{
+			"Name": "Thing2",
+			"Priority": 2
+		}
+	]
+}]
