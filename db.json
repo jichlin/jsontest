@@ -1,5 +1,4 @@
 [{
-	{
 		"Name": "Thing1",
 		"Priority": 1
 	},
@@ -7,8 +6,8 @@
 		"Name": "Thing2",
 		"Priority": 2
 	},
- 	{
+	{
 		"Name": "Thing3",
 		"Priority": 3
 	}
-}]
+]
